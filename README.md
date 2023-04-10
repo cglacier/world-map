@@ -1,8 +1,3 @@
-Let me know what you think
+Let me know what you think.
 
-To view:\
-clone github repository\
-run the following commands:\
-  cd {cloned repo}\
-  npm i\
-  npm start
+This uses GSAP for the animation and react-simple-maps for the world map
