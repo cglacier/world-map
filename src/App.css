@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.textbox {
+  position: fixed;
+  top: 20vh;
+  right: 5vw;
+  background-color: #efefef;
+  width: 15vw;
+  height: 30vh;
+  border-radius: 2vw;
+}
+
+title {
+  font-size: 10vw;
+  color: black;
+}
